@@ -1,0 +1,2 @@
+username = input('Enter username:')
+print(f'You entered {username}')
