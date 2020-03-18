@@ -1,2 +1,3 @@
 username = input('Enter username:')
-print(f'You entered {username}')
+password = input('Enter password:')
+print(f'You entered {username} (password={password})')
