@@ -1,3 +1,4 @@
+# This code prints a back-and-forth zig-zag pattern.
 import sys, time
 
 try:
