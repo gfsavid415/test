@@ -1,6 +1,7 @@
 """ 
 This code prints a back-and-forth zig-zag pattern.
 Author: Gemma
+Date: 03/18/2020
 """
 
 import sys, time
