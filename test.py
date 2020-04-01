@@ -12,7 +12,7 @@ try:
 
     while True:
         print(' ' * indent, end='')
-        print('*' * 8)
+        print('*' * 10)
         time.sleep(0.1)
 
         if indent_increase:
