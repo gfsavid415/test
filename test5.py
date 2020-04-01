@@ -8,7 +8,7 @@ def timer():
     start_time = time()
     yield
     total_time = time() - start_time
-    print(f'Elapsed time: {total_time:.3f}s')
+    print(f'Elapsed time: {total_time:.8f}s')
 
 def batch_solve(puzzles):
     return [solve(puzzle) for puzzle in puzzles]
