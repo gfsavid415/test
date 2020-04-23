@@ -1,7 +1,7 @@
 """ 
 This code prints a back-and-forth zig-zag pattern.
 Author: Gemma
-Date: 04/09/2020
+Date: 04/23/2020
 """
 
 import sys, time
