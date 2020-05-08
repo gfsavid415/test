@@ -1,4 +1,4 @@
 [submodule "rake"]
 	path = rake
 	url = https://github.com/gfsavid415/rake.git
-	branch = stable
+	branch = master
